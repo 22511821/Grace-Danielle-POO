@@ -3,12 +3,12 @@
 ### Classe Client
 
 **Attributs :**
-- `id_client` correspond à l'identifiant du client
-- `nom` désigne le nom du client
-- `prenom` désigne le prénom du client
-- `mail` désigne l'adresse email du client
+- `id_client` (str) correspond à l'identifiant du client
+- `nom` (str) désigne le nom du client
+- `prenom` (str) désigne le prénom du client
+- `mail` (str) désigne l'adresse email du client
 - `telephone` est le numéro de téléphone du client
-- `addresse` est l'addresse du client
+- `addresse` (str) est l'addresse du client
 
 **Rôle :** Cette classe représente un client pouvant effectuer des réservations de véhicules.
 
